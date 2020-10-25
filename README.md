@@ -1,2 +1,1 @@
 # pizza
-Thinkful Pizza Project
